@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.header{
+    margin-left: 60px;
+    background-color: rgb(89, 218, 253);
+    width: 90%;
+    height: 60px;
+    border-radius: 30px;
+
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btn{
+    background: linear-gradient(to right, #c8c1d0,#b2a7b2);
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 65px;
+    height: 25px;
+    position: relative;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btnn{
+    background: linear-gradient(to right, #c8c1d0,#b2a7b2);
+    margin-left: 600px;
+    margin-top: 5px;
+    width: 65px;
+    height: 25px;
+    position: relative;
+    cursor: text;
+    border-radius: 10px;
+}
+.bar{
+    margin-left: 30px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: text;
+    margin-bottom: 5px;
+}
+ .form-box{
+
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 10% 10%;
+    background: rgb(170, 208, 252);
+    padding: 5px;
+    border-radius: 15px;
+    background: transparent;
+    
+}
+.input-field{
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+.checkbox{
+    margin: 30px 10px 30px 0;
+}
+span{
+    color: #777;
+    font-size: 12px;
+    bottom: 110px;
+    position: absolute;
+}
+#t-c{
+    text-decoration: none;
+}
+.submit-btn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: linear-gradient(to right, #53c1f4,#674de9);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+
+}
